@@ -3,7 +3,12 @@
 
 * Manually selected typical emoji in sina weibo
 
-# Temporal Analyze
+# Temporal Analyzeht
+## 中兴1月1日到5月1日微博情感分析
+
+![ZTE](http://ox1llsxib.bkt.clouddn.com/zte_temporal_analyze.png)
+
+1月15日，中兴在CES2018上发布了中兴天机Axon M,获得一致好评，我们可以看到1月15日的积极微博数量有着比较明显的增长。2月15日，中兴手机在应用商店开展了发红包的活动，这在消费者中得到了不错的反馈，当天积极微博的数量也有比较明显的增长。
 
 ## 华为4月10日到4月29日微博情感分析
 ![huawei analyze](http://ox1llsxib.bkt.clouddn.com/huawei_temporal_analyze.png)
